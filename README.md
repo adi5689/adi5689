@@ -1,7 +1,5 @@
-### Hi there 👋
-
-Hi, I'm Akshat Jalan
-A Software Engineer , Web Developer and Programmer!! DevFolio
+Hi, I'm Aditya Sahu
+A frontend Web Developer and Programmer!!
 
 Fun fact I love to make Websites and code React Apps
 I’m experienced with ReactJS Web Apps.
