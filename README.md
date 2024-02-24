@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi, I'm Akshat Jalan
+A Software Engineer , Web Developer and Programmer!! DevFolio
+
+Fun fact I love to make Websites and code React Apps
+I’m experienced with ReactJS Web Apps.
+Currently working on Full stack projects using MERN - MongoDB Express ReactJs and NodeJs
+All of my projects are available at my portfolio website.
+
 <!--
 **adi5689/adi5689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
